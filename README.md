@@ -1,5 +1,5 @@
-# Codedamn Projects - Quiz App
-![main image](https://raw.githubusercontent.com/codedamn-projects/quiz-app/master/images/startcard.png)
+# Codedamn Projects - Discord UI Clone
+![main image](https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/cover-image.png)
 
 ## Hello developer!
 
@@ -7,26 +7,42 @@ This is one of the many projects available on [codedamn](https://codedamn.com/pr
 
 ## Project Overview
 
+NOTE : For mobile views look at the `/designs` folder
 ### Landing Pages
 
 You have to try and recreate the discord login page all the assets are present at the `/assets` folder. You don't need to scout for assets anywhere else. 
 
+The full landing page can be seen at this link or at the `/designs/discord-clone (landing-page) desktop.png`
+
+The landing page should include the header and the footer as well
 ### Login Page
+
+The login page should have the URL of `/login`
+
+![slash-login](https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/discord-clone%20(slash-login).png)
 
 ### Register Page
 
+The register page should have the URL of `/register` 
+
+![slash-register](https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/discord-clone%20(slash-register).png)
 ### Dashboard
 
+The dashboard should be at URL `/dashboard` 
+
+![dashboard](https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/discord-clone%20(slash-dashbaord).png)
 ### Server
 
+The server should be shown `/server/{name}`. 
 
+![server](https://raw.githubusercontent.com/codedamn-projects/discord-ui-clone/master/designs/discord-clone%20(slash-dashboard-slash-server-1).png)
 
 
 ## Instructions
 
 Your challenge is to build out this project and get it looking as close to the design as possible.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+You can use **any tools or technologies** you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
 
 Your project should:
 
@@ -35,11 +51,13 @@ Your project should:
 
 Want some support on the challenge? [Join our discord community](https://cdm.sh/discord) and ask questions in the **#general** channel.
 
+There is no limit you can go beyond the mentioned criteria and create additional functionalities
+
 ## Where to find everything
 
 Your task is to build out the project as per the provided screenshots. You will find both a mobile and a desktop version of the design.
 
-The designs are in image formats (sketch and figma designs coming soon).
+The designs are in image formats can be found in `/designs`.
 
 You will find all the required assets in the `/assets` folder. These include images, fonts, etc.
 
