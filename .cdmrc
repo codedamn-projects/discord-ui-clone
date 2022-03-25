@@ -1,2 +1,5 @@
-tabs: ['README.md', 'src/App.jsx']
-terminal-one: yarn && yarn start --port $PUBLIC_PORT
+tabs: ['src/App.jsx','README.md']
+live-reload-browser: false
+terminal-one: |
+    yarn install
+    yarn dev
